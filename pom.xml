@@ -11,7 +11,7 @@
 
     <groupId>com.github.hazendaz.winscp</groupId>
     <artifactId>winscp</artifactId>
-    <version>5.15.10-SNAPSHOT</version>
+    <version>5.17.6</version>
     <packaging>pom</packaging>
 
     <name>winscp</name>
@@ -28,7 +28,7 @@
         <connection>scm:git:ssh://git@github.com/hazendaz/winscp.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/winscp.git</developerConnection>
         <url>https://github.com/hazendaz/winscp</url>
-        <tag>HEAD</tag>
+        <tag>winscp-5.17.6</tag>
     </scm>
     <distributionManagement>
         <site>
