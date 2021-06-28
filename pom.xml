@@ -40,7 +40,7 @@
 
     <properties>
         <winscp.version>5.17.9</winscp.version>
-        <download-plugin.version>1.6.3</download-plugin.version>
+        <download-plugin.version>1.6.6</download-plugin.version>
     </properties>
 
     <build>
