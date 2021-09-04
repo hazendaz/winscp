@@ -32,9 +32,9 @@
     </scm>
     <distributionManagement>
         <site>
-            <id>gh-pages</id>
+            <id>gh-pages-scm</id>
             <name>Winscp Distribution Wrapper GitHub Pages</name>
-            <url>github:https://hazendaz.github.io/winscp/</url>
+            <url>scm:git:ssh://git@github.com/hazendaz/winscp.git</url>
         </site>
     </distributionManagement>
 
