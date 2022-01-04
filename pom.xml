@@ -11,7 +11,7 @@
 
     <groupId>com.github.hazendaz.winscp</groupId>
     <artifactId>winscp</artifactId>
-    <version>5.19.3-SNAPSHOT</version>
+    <version>5.19.5-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>winscp</name>
@@ -39,7 +39,7 @@
     </distributionManagement>
 
     <properties>
-        <winscp.version>5.19.2</winscp.version>
+        <winscp.version>5.19.5</winscp.version>
         <download-plugin.version>1.6.7</download-plugin.version>
     </properties>
 
