@@ -30,7 +30,7 @@
 
     <groupId>com.github.hazendaz.winscp</groupId>
     <artifactId>winscp</artifactId>
-    <version>6.1.3-SNAPSHOT</version>
+    <version>6.3.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>winscp</name>
@@ -58,7 +58,7 @@
     </distributionManagement>
 
     <properties>
-        <winscp.version>6.1.2</winscp.version>
+        <winscp.version>6.3.1</winscp.version>
         <download-plugin.version>1.8.1</download-plugin.version>
     </properties>
 
