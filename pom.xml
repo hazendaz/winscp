@@ -30,7 +30,7 @@
 
     <groupId>com.github.hazendaz.winscp</groupId>
     <artifactId>winscp</artifactId>
-    <version>6.3.3-SNAPSHOT</version>
+    <version>6.3.3</version>
     <packaging>pom</packaging>
 
     <name>winscp</name>
@@ -47,7 +47,7 @@
         <connection>scm:git:ssh://git@github.com/hazendaz/winscp.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/winscp.git</developerConnection>
         <url>https://github.com/hazendaz/winscp</url>
-        <tag>HEAD</tag>
+        <tag>winscp-6.3.3</tag>
     </scm>
     <distributionManagement>
         <site>
