@@ -46,8 +46,8 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/hazendaz/winscp.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/winscp.git</developerConnection>
-        <url>https://github.com/hazendaz/winscp</url>
         <tag>HEAD</tag>
+        <url>https://github.com/hazendaz/winscp</url>
     </scm>
     <distributionManagement>
         <site>
@@ -88,10 +88,10 @@
                 <executions>
                     <execution>
                         <id>attach-artifacts</id>
-                        <phase>package</phase>
                         <goals>
                             <goal>attach-artifact</goal>
                         </goals>
+                        <phase>package</phase>
                         <configuration>
                             <artifacts>
                                 <artifact>
