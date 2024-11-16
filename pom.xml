@@ -59,7 +59,7 @@
 
     <properties>
         <winscp.version>6.3.5</winscp.version>
-        <download-plugin.version>1.11.3</download-plugin.version>
+        <download-plugin.version>1.11.5</download-plugin.version>
     </properties>
 
     <build>
