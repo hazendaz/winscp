@@ -58,7 +58,7 @@
     </distributionManagement>
 
     <properties>
-        <winscp.version>6.3.5</winscp.version>
+        <winscp.version>6.3.6</winscp.version>
         <download-plugin.version>1.13.0</download-plugin.version>
     </properties>
 
