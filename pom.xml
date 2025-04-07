@@ -31,7 +31,7 @@
 
     <groupId>com.github.hazendaz.winscp</groupId>
     <artifactId>winscp</artifactId>
-    <version>6.5</version>
+    <version>6.6-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>winscp</name>
