@@ -59,15 +59,15 @@
     </distributionManagement>
 
     <properties>
-        <download-plugin.version>1.13.0</download-plugin.version>
         <winscp.version>6.5</winscp.version>
+        <download-plugin.version>2.0.0</download-plugin.version>
     </properties>
 
     <build>
         <plugins>
             <!-- Download -->
             <plugin>
-                <groupId>com.googlecode.maven-download-plugin</groupId>
+                <groupId>io.github.download-maven-plugin</groupId>
                 <artifactId>download-maven-plugin</artifactId>
                 <version>${download-plugin.version}</version>
                 <executions>
