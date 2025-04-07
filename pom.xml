@@ -19,6 +19,7 @@
 
 -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
@@ -30,7 +31,7 @@
 
     <groupId>com.github.hazendaz.winscp</groupId>
     <artifactId>winscp</artifactId>
-    <version>6.3.7-SNAPSHOT</version>
+    <version>6.5-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>winscp</name>
@@ -58,8 +59,8 @@
     </distributionManagement>
 
     <properties>
-        <winscp.version>6.3.6</winscp.version>
         <download-plugin.version>1.13.0</download-plugin.version>
+        <winscp.version>6.5</winscp.version>
     </properties>
 
     <build>
