@@ -47,7 +47,7 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/hazendaz/winscp.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/winscp.git</developerConnection>
-        <tag>winscp-6.5</tag>
+        <tag>HEAD</tag>
         <url>https://github.com/hazendaz/winscp</url>
     </scm>
     <distributionManagement>
@@ -59,7 +59,7 @@
     </distributionManagement>
 
     <properties>
-        <winscp.version>6.5.2</winscp.version>
+        <winscp.version>6.5.3</winscp.version>
         <download-plugin.version>2.0.0</download-plugin.version>
     </properties>
 
