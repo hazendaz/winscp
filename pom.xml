@@ -59,7 +59,7 @@
     </distributionManagement>
 
     <properties>
-        <winscp.version>6.5.3</winscp.version>
+        <winscp.version>6.5.4</winscp.version>
         <download-plugin.version>2.0.0</download-plugin.version>
     </properties>
 
