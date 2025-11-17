@@ -76,7 +76,7 @@
                             <goal>wget</goal>
                         </goals>
                         <configuration>
-                            <readTimeOut>10000</readTimeOut>
+                            <readTimeOut>30000</readTimeOut>
                             <url>https://sourceforge.net/projects/winscp/files/WinSCP/${winscp.version}/WinSCP-${winscp.version}-Portable.zip</url>
                         </configuration>
                     </execution>
